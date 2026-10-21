@@ -12,8 +12,9 @@ An advanced and optimized Python program developed as the final project for the 
 - **Concepts Applied**: Functions, Control Flow (IF/ELSE), loops (While/For), Boolean Logic.
 
 ## 🛠️ How to Run
-1. Clone the repository or download the `payroll_system.py`file.
-2. Run the script using any Python IDE or Terminal:
+1. Clone the repository or download both `payroll_system.py` and the text file (`data.txt`).
+2. **Crucial**: Ensure that both the Python script and the text file are placed in the **same folder/directory**.
+3. Run the script using any Python IDE or Terminal:
 
    ``` bash
    python payroll_system.py
