@@ -1,0 +1,10 @@
+Hanen Sassi,IT-101,2,45,20.00
+Bob Jones,IT-102,0,40,20.00
+Charlie Brown,IT-103,1,35,30.00
+Diana Prince,IT-104,3,50,22.50
+Evan Wright,IT-105,4,40,18.00
+Fiona Gallagher,IT-106,1,-5,15.00
+George Clark,IT-107,0,85,25.00
+Hannah Abbott,IT-108,2,40,10.00
+Ian Malcolm,IT-109,-1,40,20.00
+Julia Robert,IT-110,0,0,50.00
